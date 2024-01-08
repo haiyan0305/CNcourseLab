@@ -26,4 +26,4 @@ You should bring your laptop with you to every class presentation.
 
 # Lab & project session
 
-Coding a task or use the task provided to do a study, using EEG or fMRI, with minimum 10 participants. Analyze the data, explain it, and report it in the final project pre.
+Coding a task or use the task provided to do a study, using EEG or fMRI, with minimum 5 participants. Analyze the data, explain it, and report it in the final project pre.
