@@ -1,0 +1,12 @@
+﻿instructions.started,instructions.stopped,startKey.keys,startKey.rt,startKey.duration,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,stimulus,condition,response
+0.001,12.766,space,12.75,,testttt,001,2023-12-07_15h02.01.555,eriksen_flanker,2023.2.2,Win32,60.0240096,,,,,,,,,,,,,,,,
+,,,,,testttt,001,2023-12-07_15h02.01.555,eriksen_flanker,2023.2.2,Win32,60.0240096,12.774,20.332,right,0,7.031,,20.332,21.332,0,0,0,2,1,<<<<<,congruent,left
+,,,,,testttt,001,2023-12-07_15h02.01.555,eriksen_flanker,2023.2.2,Win32,60.0240096,21.333,23.899,left,1,2.034,,23.899,24.899,0,1,1,6,1,<<<<<,congruent,left
+,,,,,testttt,001,2023-12-07_15h02.01.555,eriksen_flanker,2023.2.2,Win32,60.0240096,24.899,44.466,left,1,19.054,,44.466,45.465,0,2,2,0,1,<<<<<,congruent,left
+,,,,,testttt,001,2023-12-07_15h02.01.555,eriksen_flanker,2023.2.2,Win32,60.0240096,45.466,54.948,left,0,8.949,,54.949,55.949,0,3,3,3,1,>>>>>,congruent,right
+,,,,,testttt,001,2023-12-07_15h02.01.555,eriksen_flanker,2023.2.2,Win32,60.0240096,55.949,67.132,left,0,10.649,,67.132,68.132,0,4,4,1,1,>>>>>,congruent,right
+,,,,,testttt,001,2023-12-07_15h02.01.555,eriksen_flanker,2023.2.2,Win32,60.0240096,68.133,69.499,left,0,0.835,,69.499,70.499,0,5,5,5,1,>>>>>,congruent,right
+,,,,,testttt,001,2023-12-07_15h02.01.555,eriksen_flanker,2023.2.2,Win32,60.0240096,70.499,71.849,left,0,0.821,,71.849,72.848,0,6,6,7,1,>>>>>,congruent,right
+,,,,,testttt,001,2023-12-07_15h02.01.555,eriksen_flanker,2023.2.2,Win32,60.0240096,72.848,73.466,left,1,0.097,,73.466,74.465,0,7,7,9,1,>><>>,incongruent,left
+,,,,,testttt,001,2023-12-07_15h02.01.555,eriksen_flanker,2023.2.2,Win32,60.0240096,74.466,76.099,left,0,1.102,,76.099,77.099,0,8,8,8,1,<<><<,incongruent,right
+,,,,,testttt,001,2023-12-07_15h02.01.555,eriksen_flanker,2023.2.2,Win32,60.0240096,77.099,78.265,left,1,0.649,,78.265,79.265,0,9,9,4,1,<<<<<,congruent,left

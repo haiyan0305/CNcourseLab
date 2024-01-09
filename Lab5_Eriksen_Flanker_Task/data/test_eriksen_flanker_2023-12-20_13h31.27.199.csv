@@ -1,0 +1,12 @@
+﻿instructions.started,instructions.stopped,startKey.keys,startKey.rt,startKey.duration,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,stimulus,condition,response
+0.0002,1.0629,space,1.04,,test,001,2023-12-20_13h31.27.199,eriksen_flanker,2023.2.2,MacIntel,119.047619,,,,,,,,,,,,,,,,
+,,,,,test,001,2023-12-20_13h31.27.199,eriksen_flanker,2023.2.2,MacIntel,119.047619,1.0722,1.9657,left,1,0.3736,,1.9658,2.9621,0,0,0,2,1,<<<<<,congruent,left
+,,,,,test,001,2023-12-20_13h31.27.199,eriksen_flanker,2023.2.2,MacIntel,119.047619,2.9628,3.8878,right,1,0.4072,,3.8879,4.8877,0,1,1,1,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-20_13h31.27.199,eriksen_flanker,2023.2.2,MacIntel,119.047619,4.8882,6.1121,left,1,0.7079,,6.1123,7.1124,0,2,2,9,1,>><>>,incongruent,left
+,,,,,test,001,2023-12-20_13h31.27.199,eriksen_flanker,2023.2.2,MacIntel,119.047619,7.1127,8.0297,left,1,0.4046,,8.0297,9.0293,0,3,3,6,1,<<<<<,congruent,left
+,,,,,test,001,2023-12-20_13h31.27.199,eriksen_flanker,2023.2.2,MacIntel,119.047619,9.0299,9.9042,right,1,0.3564,,9.9042,10.9032,0,4,4,3,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-20_13h31.27.199,eriksen_flanker,2023.2.2,MacIntel,119.047619,10.9037,11.8132,right,1,0.3977,,11.8132,12.812,0,5,5,7,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-20_13h31.27.199,eriksen_flanker,2023.2.2,MacIntel,119.047619,12.8125,13.7036,right,1,0.3836,,13.7037,14.7027,0,6,6,5,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-20_13h31.27.199,eriksen_flanker,2023.2.2,MacIntel,119.047619,14.7032,15.6627,left,1,0.4399,,15.6628,16.6624,0,7,7,4,1,<<<<<,congruent,left
+,,,,,test,001,2023-12-20_13h31.27.199,eriksen_flanker,2023.2.2,MacIntel,119.047619,16.6629,17.7739,right,1,0.5896,,17.774,18.7746,0,8,8,8,1,<<><<,incongruent,right
+,,,,,test,001,2023-12-20_13h31.27.199,eriksen_flanker,2023.2.2,MacIntel,119.047619,18.7754,19.683,left,1,0.3903,,19.683,20.6823,0,9,9,0,1,<<<<<,congruent,left

@@ -1,0 +1,12 @@
+﻿instructions.started,instructions.stopped,startKey.keys,startKey.rt,startKey.duration,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,stimulus,condition,response
+0.0002,7.9466,space,7.9333,0.0005,santiago,001,2023-10-24_16h46.22.297,eriksen_flanker,2023.2.2,Win32,142.3284942,,,,,,,,,,,,,,,,
+,,,,,santiago,001,2023-10-24_16h46.22.297,eriksen_flanker,2023.2.2,Win32,142.3284942,7.9629,9.2959,left,1,0.809,,9.296,10.2953,0,0,0,9,1,>><>>,incongruent,left
+,,,,,santiago,001,2023-10-24_16h46.22.297,eriksen_flanker,2023.2.2,Win32,142.3284942,10.2957,11.282,right,1,0.4727,,11.282,12.2817,0,1,1,1,1,>>>>>,congruent,right
+,,,,,santiago,001,2023-10-24_16h46.22.297,eriksen_flanker,2023.2.2,Win32,142.3284942,12.2821,13.2503,right,1,0.4582,,13.2503,14.2458,0,2,2,3,1,>>>>>,congruent,right
+,,,,,santiago,001,2023-10-24_16h46.22.297,eriksen_flanker,2023.2.2,Win32,142.3284942,14.2462,15.1517,left,0,0.3887,,15.1517,16.1478,0,3,3,8,1,<<><<,incongruent,right
+,,,,,santiago,001,2023-10-24_16h46.22.297,eriksen_flanker,2023.2.2,Win32,142.3284942,16.1481,17.0375,right,1,0.3698,,17.0376,18.0331,0,4,4,5,1,>>>>>,congruent,right
+,,,,,santiago,001,2023-10-24_16h46.22.297,eriksen_flanker,2023.2.2,Win32,142.3284942,18.0333,18.9289,left,1,0.3822,,18.9289,19.9255,0,5,5,0,1,<<<<<,congruent,left
+,,,,,santiago,001,2023-10-24_16h46.22.297,eriksen_flanker,2023.2.2,Win32,142.3284942,19.9259,20.8245,left,1,0.3856,,20.8245,21.8204,0,6,6,6,1,<<<<<,congruent,left
+,,,,,santiago,001,2023-10-24_16h46.22.297,eriksen_flanker,2023.2.2,Win32,142.3284942,21.8208,22.7266,left,1,0.3956,,22.7266,23.723,0,7,7,4,1,<<<<<,congruent,left
+,,,,,santiago,001,2023-10-24_16h46.22.297,eriksen_flanker,2023.2.2,Win32,142.3284942,23.7234,24.5553,right,1,0.3129,,24.5554,25.5514,0,8,8,7,1,>>>>>,congruent,right
+,,,,,santiago,001,2023-10-24_16h46.22.297,eriksen_flanker,2023.2.2,Win32,142.3284942,25.5516,26.368,left,1,0.3093,,26.368,27.3669,0,9,9,2,1,<<<<<,congruent,left

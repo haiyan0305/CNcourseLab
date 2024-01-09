@@ -1,0 +1,12 @@
+﻿instructions.started,instructions.stopped,startKey.keys,startKey.rt,startKey.duration,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,stimulus,condition,response
+0.0004,7.003,space,6.9484,,p1,001,2023-11-29_16h57.40.554,eriksen_flanker,2023.2.2,Win32,60.10337781,,,,,,,,,,,,,,,,
+,,,,,p1,001,2023-11-29_16h57.40.554,eriksen_flanker,2023.2.2,Win32,60.10337781,7.0249,8.0452,left,1,0.4964,,8.0453,9.0469,0,0,0,6,1,<<<<<,congruent,left
+,,,,,p1,001,2023-11-29_16h57.40.554,eriksen_flanker,2023.2.2,Win32,60.10337781,9.0479,10.0449,left,1,0.4706,,10.0449,11.0448,0,1,1,0,1,<<<<<,congruent,left
+,,,,,p1,001,2023-11-29_16h57.40.554,eriksen_flanker,2023.2.2,Win32,60.10337781,11.045,12.0288,right,1,0.4422,,12.0288,13.0283,0,2,2,5,1,>>>>>,congruent,right
+,,,,,p1,001,2023-11-29_16h57.40.554,eriksen_flanker,2023.2.2,Win32,60.10337781,13.0287,14.2786,left,0,0.7168,,14.2786,15.2781,0,3,3,3,1,>>>>>,congruent,right
+,,,,,p1,001,2023-11-29_16h57.40.554,eriksen_flanker,2023.2.2,Win32,60.10337781,15.2784,17.2952,right,0,1.479,,17.2953,18.2948,0,4,4,9,1,>><>>,incongruent,left
+,,,,,p1,001,2023-11-29_16h57.40.554,eriksen_flanker,2023.2.2,Win32,60.10337781,18.2951,19.3793,left,0,0.5598,,19.3794,20.3788,0,5,5,1,1,>>>>>,congruent,right
+,,,,,p1,001,2023-11-29_16h57.40.554,eriksen_flanker,2023.2.2,Win32,60.10337781,20.3794,21.6785,right,0,0.7645,,21.6786,22.6782,0,6,6,2,1,<<<<<,congruent,left
+,,,,,p1,001,2023-11-29_16h57.40.554,eriksen_flanker,2023.2.2,Win32,60.10337781,22.6784,24.1786,right,0,0.9672,,24.1787,25.1782,0,7,7,4,1,<<<<<,congruent,left
+,,,,,p1,001,2023-11-29_16h57.40.554,eriksen_flanker,2023.2.2,Win32,60.10337781,25.1786,27.995,left,0,2.2903,,27.9951,28.9959,0,8,8,7,1,>>>>>,congruent,right
+,,,,,p1,001,2023-11-29_16h57.40.554,eriksen_flanker,2023.2.2,Win32,60.10337781,28.9966,30.2783,left,0,0.7497,,30.2784,31.2783,0,9,9,8,1,<<><<,incongruent,right

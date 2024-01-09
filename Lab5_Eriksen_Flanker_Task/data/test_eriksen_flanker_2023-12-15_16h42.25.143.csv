@@ -1,0 +1,3 @@
+﻿instructions.started,instructions.stopped,startKey.keys,startKey.rt,startKey.duration,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,trials.order,stimulus,condition,response
+0.0004,3.9982,space,3.9701,,test,001,2023-12-15_16h42.25.143,eriksen_flanker,2023.2.2,Win32,60.24096386,,,,,,,,,,
+,,,,,test,001,2023-12-15_16h42.25.143,eriksen_flanker,2023.2.2,Win32,60.24096386,4.0327,0,0,0,4,1,9,<<<<<,congruent,left

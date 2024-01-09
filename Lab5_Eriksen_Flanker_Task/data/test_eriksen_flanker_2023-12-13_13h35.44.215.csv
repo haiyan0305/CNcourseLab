@@ -1,0 +1,12 @@
+﻿instructions.started,instructions.stopped,startKey.keys,startKey.rt,startKey.duration,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,stimulus,condition,response
+0.0001,3.4145,space,3.4017,,test,001,2023-12-13_13h35.44.215,eriksen_flanker,2023.2.2,MacIntel,120.0048002,,,,,,,,,,,,,,,,
+,,,,,test,001,2023-12-13_13h35.44.215,eriksen_flanker,2023.2.2,MacIntel,120.0048002,3.4272,4.9558,right,1,1.0072,,4.9559,5.9547,0,0,0,5,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-13_13h35.44.215,eriksen_flanker,2023.2.2,MacIntel,120.0048002,5.9553,7.7398,left,1,1.2589,,7.7398,8.7404,0,1,1,9,1,>><>>,incongruent,left
+,,,,,test,001,2023-12-13_13h35.44.215,eriksen_flanker,2023.2.2,MacIntel,120.0048002,8.7407,9.8816,right,1,0.6249,,9.8816,10.8814,0,2,2,3,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-13_13h35.44.215,eriksen_flanker,2023.2.2,MacIntel,120.0048002,10.8826,12.4147,left,1,1.0167,,12.4147,13.4145,0,3,3,6,1,<<<<<,congruent,left
+,,,,,test,001,2023-12-13_13h35.44.215,eriksen_flanker,2023.2.2,MacIntel,120.0048002,13.415,15.1327,left,1,1.2135,,15.1328,16.1319,0,4,4,0,1,<<<<<,congruent,left
+,,,,,test,001,2023-12-13_13h35.44.215,eriksen_flanker,2023.2.2,MacIntel,120.0048002,16.1323,17.6083,right,1,0.9586,,17.6083,18.6078,0,5,5,8,1,<<><<,incongruent,right
+,,,,,test,001,2023-12-13_13h35.44.215,eriksen_flanker,2023.2.2,MacIntel,120.0048002,18.6084,291.2874,left,1,272.1634,,291.2875,292.2876,0,6,6,2,1,<<<<<,congruent,left
+,,,,,test,001,2023-12-13_13h35.44.215,eriksen_flanker,2023.2.2,MacIntel,120.0048002,292.2883,293.3291,right,1,0.5236,,293.3292,294.3302,0,7,7,7,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-13_13h35.44.215,eriksen_flanker,2023.2.2,MacIntel,120.0048002,294.3308,295.3709,right,1,0.5248,,295.3711,296.3706,0,8,8,1,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-13_13h35.44.215,eriksen_flanker,2023.2.2,MacIntel,120.0048002,296.3712,297.6792,left,1,0.7982,,297.6792,298.6794,0,9,9,4,1,<<<<<,congruent,left

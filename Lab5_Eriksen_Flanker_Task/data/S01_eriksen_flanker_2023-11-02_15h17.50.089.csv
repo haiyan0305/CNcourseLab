@@ -1,0 +1,12 @@
+﻿instructions.started,instructions.stopped,startKey.keys,startKey.rt,startKey.duration,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,stimulus,condition,response
+0.0003,8.8102,space,8.7597,,S01,001,2023-11-02_15h17.50.089,eriksen_flanker,2023.2.2,Win32,59.91611744,,,,,,,,,,,,,,,,
+,,,,,S01,001,2023-11-02_15h17.50.089,eriksen_flanker,2023.2.2,Win32,59.91611744,8.8503,10.0682,left,1,0.657,,10.0686,11.0679,0,0,0,0,1,<<<<<,congruent,left
+,,,,,S01,001,2023-11-02_15h17.50.089,eriksen_flanker,2023.2.2,Win32,59.91611744,11.0704,12.0174,left,1,0.4167,,12.0177,13.0158,0,1,1,2,1,<<<<<,congruent,left
+,,,,,S01,001,2023-11-02_15h17.50.089,eriksen_flanker,2023.2.2,Win32,59.91611744,13.0181,13.8992,right,1,0.336,,13.8998,14.8989,0,2,2,5,1,>>>>>,congruent,right
+,,,,,S01,001,2023-11-02_15h17.50.089,eriksen_flanker,2023.2.2,Win32,59.91611744,14.9016,15.7991,right,1,0.3692,,15.7998,16.8074,0,3,3,3,1,>>>>>,congruent,right
+,,,,,S01,001,2023-11-02_15h17.50.089,eriksen_flanker,2023.2.2,Win32,59.91611744,16.8084,17.6982,right,0,0.3482,,17.6982,18.6977,0,4,4,9,1,>><>>,incongruent,left
+,,,,,S01,001,2023-11-02_15h17.50.089,eriksen_flanker,2023.2.2,Win32,59.91611744,18.6989,19.8143,right,1,0.5866,,19.8147,20.8046,0,5,5,7,1,>>>>>,congruent,right
+,,,,,S01,001,2023-11-02_15h17.50.089,eriksen_flanker,2023.2.2,Win32,59.91611744,20.8058,21.7298,left,1,0.3957,,21.73,22.7295,0,6,6,6,1,<<<<<,congruent,left
+,,,,,S01,001,2023-11-02_15h17.50.089,eriksen_flanker,2023.2.2,Win32,59.91611744,22.7307,24.3798,right,1,1.1151,,24.38,25.3792,0,7,7,8,1,<<><<,incongruent,right
+,,,,,S01,001,2023-11-02_15h17.50.089,eriksen_flanker,2023.2.2,Win32,59.91611744,25.3802,26.3791,left,1,0.4646,,26.3792,27.377,0,8,8,4,1,<<<<<,congruent,left
+,,,,,S01,001,2023-11-02_15h17.50.089,eriksen_flanker,2023.2.2,Win32,59.91611744,27.3774,28.3949,right,1,0.4976,,28.395,29.3947,0,9,9,1,1,>>>>>,congruent,right

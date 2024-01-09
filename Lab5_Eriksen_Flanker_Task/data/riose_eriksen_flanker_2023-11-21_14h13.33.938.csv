@@ -1,0 +1,12 @@
+﻿instructions.started,instructions.stopped,startKey.keys,startKey.rt,startKey.duration,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,stimulus,condition,response
+0.0004,69.0759,space,69.0431,,riose,001,2023-11-21_14h13.33.938,eriksen_flanker,2023.2.2,Win32,60.15399423,,,,,,,,,,,,,,,,
+,,,,,riose,001,2023-11-21_14h13.33.938,eriksen_flanker,2023.2.2,Win32,60.15399423,69.1404,70.9354,right,1,1.2545,,70.9359,71.935,0,0,0,5,1,>>>>>,congruent,right
+,,,,,riose,001,2023-11-21_14h13.33.938,eriksen_flanker,2023.2.2,Win32,60.15399423,71.9359,73.3338,right,1,0.8666,,73.3339,74.3334,0,1,1,7,1,>>>>>,congruent,right
+,,,,,riose,001,2023-11-21_14h13.33.938,eriksen_flanker,2023.2.2,Win32,60.15399423,74.3349,75.801,right,1,0.9364,,75.8011,76.8008,0,2,2,1,1,>>>>>,congruent,right
+,,,,,riose,001,2023-11-21_14h13.33.938,eriksen_flanker,2023.2.2,Win32,60.15399423,76.8026,78.1005,left,1,0.7707,,78.1007,79.1011,0,3,3,2,1,<<<<<,congruent,left
+,,,,,riose,001,2023-11-21_14h13.33.938,eriksen_flanker,2023.2.2,Win32,60.15399423,79.1017,80.168,right,1,0.5311,,80.1681,81.169,0,4,4,8,1,<<><<,incongruent,right
+,,,,,riose,001,2023-11-21_14h13.33.938,eriksen_flanker,2023.2.2,Win32,60.15399423,81.1695,82.2349,left,1,0.5327,,82.2352,83.2352,0,5,5,0,1,<<<<<,congruent,left
+,,,,,riose,001,2023-11-21_14h13.33.938,eriksen_flanker,2023.2.2,Win32,60.15399423,83.2361,84.4191,right,0,0.6561,,84.4192,85.4181,0,6,6,4,1,<<<<<,congruent,left
+,,,,,riose,001,2023-11-21_14h13.33.938,eriksen_flanker,2023.2.2,Win32,60.15399423,85.4189,86.835,left,1,0.8861,,86.8352,87.8347,0,7,7,6,1,<<<<<,congruent,left
+,,,,,riose,001,2023-11-21_14h13.33.938,eriksen_flanker,2023.2.2,Win32,60.15399423,87.8355,88.9016,right,1,0.5362,,88.9019,89.9014,0,8,8,3,1,>>>>>,congruent,right
+,,,,,riose,001,2023-11-21_14h13.33.938,eriksen_flanker,2023.2.2,Win32,60.15399423,89.9023,90.9683,left,1,0.5326,,90.9684,91.9691,0,9,9,9,1,>><>>,incongruent,left

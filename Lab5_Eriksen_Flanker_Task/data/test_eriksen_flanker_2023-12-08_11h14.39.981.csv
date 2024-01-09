@@ -1,0 +1,12 @@
+﻿instructions.started,instructions.stopped,startKey.keys,startKey.rt,startKey.duration,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,stimulus,condition,response
+0.0001,7.5355,space,7.523,,test,001,2023-12-08_11h14.39.981,eriksen_flanker,2023.2.2,MacIntel,120.0048002,,,,,,,,,,,,,,,,
+,,,,,test,001,2023-12-08_11h14.39.981,eriksen_flanker,2023.2.2,MacIntel,120.0048002,7.5504,8.5778,right,1,0.5062,,8.578,9.5774,0,0,0,5,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-08_11h14.39.981,eriksen_flanker,2023.2.2,MacIntel,120.0048002,9.5783,10.643,left,0,0.5448,,10.6431,11.6437,0,1,1,8,1,<<><<,incongruent,right
+,,,,,test,001,2023-12-08_11h14.39.981,eriksen_flanker,2023.2.2,MacIntel,120.0048002,11.6445,12.635,right,1,0.4684,,12.6351,13.6345,0,2,2,7,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-08_11h14.39.981,eriksen_flanker,2023.2.2,MacIntel,120.0048002,13.6348,14.6042,left,1,0.4557,,14.6044,15.6025,0,3,3,4,1,<<<<<,congruent,left
+,,,,,test,001,2023-12-08_11h14.39.981,eriksen_flanker,2023.2.2,MacIntel,120.0048002,15.6029,16.5874,left,1,0.4763,,16.5875,17.5878,0,4,4,6,1,<<<<<,congruent,left
+,,,,,test,001,2023-12-08_11h14.39.981,eriksen_flanker,2023.2.2,MacIntel,120.0048002,17.5883,21.5791,left,1,3.4753,,21.5791,22.5789,0,5,5,9,1,>><>>,incongruent,left
+,,,,,test,001,2023-12-08_11h14.39.981,eriksen_flanker,2023.2.2,MacIntel,120.0048002,22.5794,23.6364,left,1,0.5367,,23.6364,24.6395,0,6,6,2,1,<<<<<,congruent,left
+,,,,,test,001,2023-12-08_11h14.39.981,eriksen_flanker,2023.2.2,MacIntel,120.0048002,24.6401,25.6641,left,1,0.5086,,25.6641,26.6639,0,7,7,0,1,<<<<<,congruent,left
+,,,,,test,001,2023-12-08_11h14.39.981,eriksen_flanker,2023.2.2,MacIntel,120.0048002,26.6645,27.8725,right,1,0.687,,27.8725,28.8723,0,8,8,1,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-08_11h14.39.981,eriksen_flanker,2023.2.2,MacIntel,120.0048002,28.8727,29.8474,right,1,0.458,,29.8475,30.8458,0,9,9,3,1,>>>>>,congruent,right

@@ -1,0 +1,12 @@
+﻿instructions.started,instructions.stopped,startKey.keys,startKey.rt,startKey.duration,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,stimulus,condition,response
+0.0003,18.5898,space,18.5694,,Philipp,001,2023-12-01_15h18.20.484,eriksen_flanker,2023.2.2,Win32,59.01097604,,,,,,,,,,,,,,,,
+,,,,,Philipp,001,2023-12-01_15h18.20.484,eriksen_flanker,2023.2.2,Win32,59.01097604,18.6126,20.4137,right,1,1.274,,20.414,21.4122,0,0,0,1,1,>>>>>,congruent,right
+,,,,,Philipp,001,2023-12-01_15h18.20.484,eriksen_flanker,2023.2.2,Win32,59.01097604,21.4127,23.1278,left,1,1.1876,,23.128,24.1271,0,1,1,2,1,<<<<<,congruent,left
+,,,,,Philipp,001,2023-12-01_15h18.20.484,eriksen_flanker,2023.2.2,Win32,59.01097604,24.1283,25.2922,right,1,0.6369,,25.2924,26.2918,0,2,2,8,1,<<><<,incongruent,right
+,,,,,Philipp,001,2023-12-01_15h18.20.484,eriksen_flanker,2023.2.2,Win32,59.01097604,26.2928,27.4735,right,1,0.6486,,27.4737,28.4726,0,3,3,5,1,>>>>>,congruent,right
+,,,,,Philipp,001,2023-12-01_15h18.20.484,eriksen_flanker,2023.2.2,Win32,59.01097604,28.4731,29.5057,left,1,0.5177,,29.5058,30.505,0,4,4,9,1,>><>>,incongruent,left
+,,,,,Philipp,001,2023-12-01_15h18.20.484,eriksen_flanker,2023.2.2,Win32,59.01097604,30.5057,31.6539,right,1,0.6166,,31.654,32.6539,0,5,5,7,1,>>>>>,congruent,right
+,,,,,Philipp,001,2023-12-01_15h18.20.484,eriksen_flanker,2023.2.2,Win32,59.01097604,32.6546,33.6699,left,1,0.4851,,33.67,34.6679,0,6,6,0,1,<<<<<,congruent,left
+,,,,,Philipp,001,2023-12-01_15h18.20.484,eriksen_flanker,2023.2.2,Win32,59.01097604,34.6687,35.6833,left,1,0.4915,,35.6834,36.6841,0,7,7,6,1,<<<<<,congruent,left
+,,,,,Philipp,001,2023-12-01_15h18.20.484,eriksen_flanker,2023.2.2,Win32,59.01097604,36.685,37.6986,right,1,0.4832,,37.6987,38.699,0,8,8,3,1,>>>>>,congruent,right
+,,,,,Philipp,001,2023-12-01_15h18.20.484,eriksen_flanker,2023.2.2,Win32,59.01097604,38.6999,39.7648,left,1,0.5333,,39.7649,40.7627,0,9,9,4,1,<<<<<,congruent,left

@@ -1,0 +1,12 @@
+﻿instructions.started,instructions.stopped,startKey.keys,startKey.rt,startKey.duration,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,stimulus,condition,response
+0,12.987,space,12.976,,test,001,2023-12-07_12h41.59.182,eriksen_flanker,2023.2.2,MacIntel,123.7623762,,,,,,,,,,,,,,,,
+,,,,,test,001,2023-12-07_12h41.59.182,eriksen_flanker,2023.2.2,MacIntel,123.7623762,13.001,13.928,left,0,0.41,,13.928,14.929,0,0,0,8,1,<<><<,incongruent,right
+,,,,,test,001,2023-12-07_12h41.59.182,eriksen_flanker,2023.2.2,MacIntel,123.7623762,14.93,16.02,left,1,0.574,,16.02,17.022,0,1,1,2,1,<<<<<,congruent,left
+,,,,,test,001,2023-12-07_12h41.59.182,eriksen_flanker,2023.2.2,MacIntel,123.7623762,17.023,20.463,left,1,2.926,,20.464,21.464,0,2,2,9,1,>><>>,incongruent,left
+,,,,,test,001,2023-12-07_12h41.59.182,eriksen_flanker,2023.2.2,MacIntel,123.7623762,21.466,22.464,right,1,0.487,,22.465,23.464,0,3,3,1,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-07_12h41.59.182,eriksen_flanker,2023.2.2,MacIntel,123.7623762,23.465,24.402,left,1,0.429,,24.402,25.398,0,4,4,0,1,<<<<<,congruent,left
+,,,,,test,001,2023-12-07_12h41.59.182,eriksen_flanker,2023.2.2,MacIntel,123.7623762,25.399,26.406,right,1,0.499,,26.406,27.415,0,5,5,7,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-07_12h41.59.182,eriksen_flanker,2023.2.2,MacIntel,123.7623762,27.417,28.357,right,1,0.423,,28.357,29.356,0,6,6,5,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-07_12h41.59.182,eriksen_flanker,2023.2.2,MacIntel,123.7623762,29.356,30.232,left,1,0.363,,30.232,31.235,0,7,7,6,1,<<<<<,congruent,left
+,,,,,test,001,2023-12-07_12h41.59.182,eriksen_flanker,2023.2.2,MacIntel,123.7623762,31.236,32.148,right,1,0.4,,32.148,33.142,0,8,8,3,1,>>>>>,congruent,right
+,,,,,test,001,2023-12-07_12h41.59.182,eriksen_flanker,2023.2.2,MacIntel,123.7623762,33.144,34.089,left,1,0.43,,34.089,35.091,0,9,9,4,1,<<<<<,congruent,left

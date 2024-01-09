@@ -1,0 +1,13 @@
+﻿instructions.started,instructions.stopped,startKey.keys,startKey.rt,startKey.duration,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,stimulus,condition,response,end.started
+0.0009,15.3899,space,15.2883,,Terry Sandberg,001,2023-11-23_11h36.44.374,eriksen_flanker,2023.2.2,Win32,15.1194436,,,,,,,,,,,,,,,,,
+,,,,,Terry Sandberg,001,2023-11-23_11h36.44.374,eriksen_flanker,2023.2.2,Win32,15.1194436,15.4081,16.9964,left,1,0.9889,,16.9965,18.0292,0,0,0,6,1,<<<<<,congruent,left,
+,,,,,Terry Sandberg,001,2023-11-23_11h36.44.374,eriksen_flanker,2023.2.2,Win32,15.1194436,18.0297,20.9499,right,1,2.2811,,20.95,21.9079,0,1,1,8,1,<<><<,incongruent,right,
+,,,,,Terry Sandberg,001,2023-11-23_11h36.44.374,eriksen_flanker,2023.2.2,Win32,15.1194436,21.9083,23.5724,left,1,1.0314,,23.5724,24.5998,0,2,2,2,1,<<<<<,congruent,left,
+,,,,,Terry Sandberg,001,2023-11-23_11h36.44.374,eriksen_flanker,2023.2.2,Win32,15.1194436,24.6003,25.9504,left,1,0.7216,,25.9504,26.9694,0,3,3,4,1,<<<<<,congruent,left,
+,,,,,Terry Sandberg,001,2023-11-23_11h36.44.374,eriksen_flanker,2023.2.2,Win32,15.1194436,26.9697,28.4194,left,1,0.8248,,28.4194,29.3585,0,4,4,9,1,>><>>,incongruent,left,
+,,,,,Terry Sandberg,001,2023-11-23_11h36.44.374,eriksen_flanker,2023.2.2,Win32,15.1194436,29.3588,30.616,right,1,0.6632,,30.6161,31.5668,0,5,5,3,1,>>>>>,congruent,right,
+,,,,,Terry Sandberg,001,2023-11-23_11h36.44.374,eriksen_flanker,2023.2.2,Win32,15.1194436,31.5671,32.8345,right,1,0.6424,,32.8345,33.7943,0,6,6,1,1,>>>>>,congruent,right,
+,,,,,Terry Sandberg,001,2023-11-23_11h36.44.374,eriksen_flanker,2023.2.2,Win32,15.1194436,33.7946,35.2524,left,1,0.8307,,35.2525,36.2001,0,7,7,0,1,<<<<<,congruent,left,
+,,,,,Terry Sandberg,001,2023-11-23_11h36.44.374,eriksen_flanker,2023.2.2,Win32,15.1194436,36.2004,37.4641,right,1,0.6375,,37.4642,38.4207,0,8,8,7,1,>>>>>,congruent,right,
+,,,,,Terry Sandberg,001,2023-11-23_11h36.44.374,eriksen_flanker,2023.2.2,Win32,15.1194436,38.4209,39.6163,right,1,0.5653,,39.6163,40.6433,0,9,9,5,1,>>>>>,congruent,right,
+,,,,,Terry Sandberg,001,2023-11-23_11h36.44.374,eriksen_flanker,2023.2.2,Win32,15.1194436,,,,,,,,,,,,,,,,,40.6438

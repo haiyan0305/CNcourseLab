@@ -1,0 +1,12 @@
+﻿instructions.started,instructions.stopped,startKey.keys,startKey.rt,startKey.duration,participant,session,date,expName,psychopyVersion,OS,frameRate,trial.started,trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,feedback.started,feedback.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,stimulus,condition,response
+0,3.879,space,3.811,,x,001,2024-01-08_14h17.13.446,eriksen_flanker,2023.2.2,Win32,60.0240096,,,,,,,,,,,,,,,,
+,,,,,x,001,2024-01-08_14h17.13.446,eriksen_flanker,2023.2.2,Win32,60.0240096,3.923,6.192,right,1,1.722,,6.192,7.195,0,0,0,3,1,>>>>>,congruent,right
+,,,,,x,001,2024-01-08_14h17.13.446,eriksen_flanker,2023.2.2,Win32,60.0240096,7.196,7.768,left,1,0.027,,7.769,8.761,0,1,1,0,1,<<<<<,congruent,left
+,,,,,x,001,2024-01-08_14h17.13.446,eriksen_flanker,2023.2.2,Win32,60.0240096,8.764,10.073,right,1,0.766,,10.073,11.075,0,2,2,8,1,<<><<,incongruent,right
+,,,,,x,001,2024-01-08_14h17.13.446,eriksen_flanker,2023.2.2,Win32,60.0240096,11.076,12.258,right,0,0.652,,12.258,13.257,0,3,3,9,1,>><>>,incongruent,left
+,,,,,x,001,2024-01-08_14h17.13.446,eriksen_flanker,2023.2.2,Win32,60.0240096,13.259,13.802,left,1,0.002,,13.802,14.805,0,4,4,4,1,<<<<<,congruent,left
+,,,,,x,001,2024-01-08_14h17.13.446,eriksen_flanker,2023.2.2,Win32,60.0240096,14.807,15.739,left,0,0.391,,15.739,16.738,0,5,5,1,1,>>>>>,congruent,right
+,,,,,x,001,2024-01-08_14h17.13.446,eriksen_flanker,2023.2.2,Win32,60.0240096,16.738,17.487,left,1,0.23,,17.487,18.487,0,6,6,6,1,<<<<<,congruent,left
+,,,,,x,001,2024-01-08_14h17.13.446,eriksen_flanker,2023.2.2,Win32,60.0240096,18.488,19.454,left,1,0.434,,19.454,20.453,0,7,7,2,1,<<<<<,congruent,left
+,,,,,x,001,2024-01-08_14h17.13.446,eriksen_flanker,2023.2.2,Win32,60.0240096,20.454,21.137,left,0,0.139,,21.137,22.131,0,8,8,5,1,>>>>>,congruent,right
+,,,,,x,001,2024-01-08_14h17.13.446,eriksen_flanker,2023.2.2,Win32,60.0240096,22.134,22.786,left,0,0.135,,22.786,23.785,0,9,9,7,1,>>>>>,congruent,right
