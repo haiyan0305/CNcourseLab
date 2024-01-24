@@ -35,5 +35,5 @@ Coding a task or use the task provided to do a study, using EEG or fMRI, with mi
 |-------------|-------------------|
 | Group 1 | xx |
 | Group 2 | The Effect of Phonological Similarity on Bilingual Word Superiority Effect: Evidence from EEG |
-
+| Group 5 | Exploring the Neural Correlates of Decision-Making Under Stress: An EEG-Based Approach |
 
