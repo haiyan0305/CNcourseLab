@@ -31,4 +31,9 @@ Coding a task or use the task provided to do a study, using EEG or fMRI, with mi
 
 # Group & project title
 
-## Group 1
+| Group name | project title |
+|-------------|-------------------|
+| Group 1 | xx |
+| Group 2 | xx |
+
+
