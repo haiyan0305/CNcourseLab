@@ -34,6 +34,6 @@ Coding a task or use the task provided to do a study, using EEG or fMRI, with mi
 | Group name | project title |
 |-------------|-------------------|
 | Group 1 | xx |
-| Group 2 | xx |
+| Group 2 | The Effect of Phonological Similarity on Bilingual Word Superiority Effect: Evidence from EEG |
 
 
