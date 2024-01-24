@@ -12,9 +12,8 @@ Please view the materials below *before* collecting data from human participants
 | Description | Link and filetype |
 |-------------|-------------------|
 | Protection of Human Subjects (CPHS) | [PPTX](https://github.com/ContextLab/experimental-psychology/raw/main/slides/CPHS_presentation.pptx) |
-| Belmont Report | [PDF](https://github.com/ContextLab/experimental-psychology/raw/main/readings/Belmont_Report.pdf) |
-| Nuremburg Code | [PDF](https://github.com/ContextLab/experimental-psychology/raw/main/readings/Nuremburg_Code.pdf) |
-| Jesse's Intent | [PDF](https://github.com/ContextLab/experimental-psychology/raw/main/readings/Jesse_Intent.pdf) |
+| APA ethic | [PDF](https://github.com/haiyan0305/CNcourseLab/blob/main/%E9%99%84%E4%BB%B6%201%20%E3%80%8AAPA%20%E9%81%93%E5%BE%B7%E5%87%86%E5%88%99%EF%BC%882002%EF%BC%89%E3%80%8B%20.pdf) |
+
 
 
 # Materials
