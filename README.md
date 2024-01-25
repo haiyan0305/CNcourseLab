@@ -2,7 +2,7 @@
 Lab for  CCBS 7002
 Year 2023-2024
 
-Course materials for CCBS 7002: Laboratory in Psychological Science and Cognitive Neuroscience, UM (Instructor: Haiyan Wu)
+Course materials for CCBS 7002:  Cognitive Neuroscience, UM (Instructor: Haiyan Wu)
 
 
 ### Human subjects research materials
