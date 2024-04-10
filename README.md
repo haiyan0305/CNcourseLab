@@ -39,3 +39,4 @@ Coding a task or use the task provided to do a study, using EEG or fMRI, with mi
 | Group 5 | Exploring the Differences in Mental Rotation of Letters and Faces, Comparing Reaction Time and Contralateral Delay Activity (CDA) |
 | Group 6 | Investigating the Impact of Smartphone on  Cognitive Control: Insights from Behavioral and Electrophysiological Evidence in the Navon Task​ |
 | Group 7 | The Impact of Sleep Deprivation on Risky Self-other Decision Making: A fNRIS Study using the Balloon Analogue Risk Task (BART)
+| Group 9 | Brain Asymmetry and Visual Working Memory: Investigating the Impact of Negative Distractors |
