@@ -35,6 +35,7 @@ Coding a task or use the task provided to do a study, using EEG or fMRI, with mi
 |-------------|-------------------|
 | Group 1 | xx |
 | Group 2 | The Effect of Phonemic Similarity on Bilingual Word Superiority Effect |
+| Group 3 | The Interaction Between Self and Emotion:A Pilot Study on Implicit Self-positivity Bias |
 | Group 4 | The Impact of Language Quantity and Usage Balance on Inhibitory Control: An ERP Study |
 | Group 5 | Exploring the Differences in Mental Rotation of Letters and Faces, Comparing Reaction Time and Contralateral Delay Activity (CDA) |
 | Group 6 | Investigating the Impact of Smartphone on  Cognitive Control: Insights from Behavioral and Electrophysiological Evidence in the Navon Task​ |
